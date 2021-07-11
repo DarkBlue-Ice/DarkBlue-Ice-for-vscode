@@ -4,7 +4,7 @@
 
 ---
 
-## Add to your vscode: 
+## Add to your vscode: https://marketplace.visualstudio.com/items?itemName=DarkBlueIce.darkblue-ice
 
 ---
 
