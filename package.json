@@ -1,0 +1,32 @@
+{
+    "name": "darkblue-ice",
+    "displayName": "DarkBlue Ice",
+    "description": "A Beautiful theme with Dark blue and ice colors distributed in a harmonic way",
+    "version": "1.0.0",
+    "publisher": "DarkBlueIce",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Dedsd/DarkBlue-Ice-for-vscode"
+    },
+    "keywords": [
+        "DarkBlueIce",
+        "DarkBlue Ice",
+        "darkblueice",
+        "DarkBlue Ice theme"
+    ],
+    "engines": {
+        "vscode": "^1.58.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "DarkBlue Ice",
+                "uiTheme": "vs-dark",
+                "path": "./themes/DarkBlue Ice-color-theme.json"
+            }
+        ]
+    }
+}
