@@ -14,6 +14,7 @@
         "darkblueice",
         "DarkBlue Ice theme"
     ],
+    "icon": "darkblueiceicon.png",
     "engines": {
         "vscode": "^1.58.0"
     },
