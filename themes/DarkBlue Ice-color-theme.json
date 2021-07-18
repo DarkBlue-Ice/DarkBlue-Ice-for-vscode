@@ -636,6 +636,15 @@
 			"settings": {
 				"foreground": "#EEFFFF"
 			}
+		},
+		{
+			"name": "P color",
+			"scope": [
+				"source.rust"
+			],
+			"settings": {
+				"foreground": "#bf455b"
+			}
 		}
 	]
 }
