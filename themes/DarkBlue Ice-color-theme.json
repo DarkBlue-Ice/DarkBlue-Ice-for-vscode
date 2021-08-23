@@ -17,7 +17,13 @@
         "sideBar.background": "#39404D",
 		"badge.background": "#556077",
 		"input.background": "#2A2F3B",
-		"editorGroupHeader.tabsBackground": "#21262F"
+		"editorGroupHeader.tabsBackground": "#21262F",
+		"statusBar.noFolderBackground": "#39404D",
+		"statusBar.noFolderForeground": "#C3D6F9",
+		"settings.checkboxBackground": "#39404D",
+		"settings.textInputBackground": "#39404D",
+		"settings.dropdownBackground": "#39404D",
+		"settings.numberInputBackground": "#39404D"
 	},
 	"tokenColors": [
 		{
@@ -62,7 +68,7 @@
 		},
 		{
 			"name": "Keyword, Storage",
-			"scope": [
+	''	"scope": [
 				"keyword",
 				"storage.type",
 				"storage.modifier"
