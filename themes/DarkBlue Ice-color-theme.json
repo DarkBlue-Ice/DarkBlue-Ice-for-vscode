@@ -23,7 +23,8 @@
 		"settings.checkboxBackground": "#39404D",
 		"settings.textInputBackground": "#39404D",
 		"settings.dropdownBackground": "#39404D",
-		"settings.numberInputBackground": "#39404D"
+		"settings.numberInputBackground": "#39404D",
+		"button.background": "#454E63"
 	},
 	"tokenColors": [
 		{
@@ -68,7 +69,7 @@
 		},
 		{
 			"name": "Keyword, Storage",
-	''	"scope": [
+			"scope": [
 				"keyword",
 				"storage.type",
 				"storage.modifier"
