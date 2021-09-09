@@ -24,7 +24,10 @@
 		"settings.textInputBackground": "#39404D",
 		"settings.dropdownBackground": "#39404D",
 		"settings.numberInputBackground": "#39404D",
-		"button.background": "#454E63"
+		"button.background": "#454E63",
+		"focusBorder": "#C3D6F9",
+		"list.inactiveSelectionBackground": "#2A2F3B",
+		"list.hoverBackground": "#2A2F3B"
 	},
 	"tokenColors": [
 		{
