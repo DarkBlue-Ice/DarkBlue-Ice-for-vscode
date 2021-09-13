@@ -27,7 +27,8 @@
 		"button.background": "#454E63",
 		"focusBorder": "#C3D6F9",
 		"list.inactiveSelectionBackground": "#2A2F3B",
-		"list.hoverBackground": "#2A2F3B"
+		"list.hoverBackground": "#2A2F3B",
+		"notifications.background": "#1e262f"
 	},
 	"tokenColors": [
 		{
@@ -72,7 +73,7 @@
 		},
 		{
 			"name": "Keyword, Storage",
-			"scope": [
+		"	"scope": [
 				"keyword",
 				"storage.type",
 				"storage.modifier"
