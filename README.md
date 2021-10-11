@@ -1,5 +1,6 @@
 ## DarkBlue Ice for vscode
-![example](https://cdn.discordapp.com/attachments/774302890142597160/863766877359833148/unknown.png)
+<img src='images/example.png'>
+
 ### A Beautiful theme for vscode with dark blue and ice colors distributed in a harmonic way.
 
 ---
